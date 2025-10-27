@@ -6,5 +6,5 @@ public class Constants {
 
     public static String browser = "Google Chrome";
     public static boolean report = true;
-    public static boolean headless = true;
+    public static boolean headless = false;  // chạy theo chế độ hiển thị giao diện
 }

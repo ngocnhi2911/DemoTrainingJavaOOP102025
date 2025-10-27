@@ -2,11 +2,11 @@ package bt_java_oop_2.person;
 
 public class Person {
 
-    String name;
-    int age;
-    String gender;
-    String address;
-    String phone;
+    public String name;
+    public int age;
+    public String gender;
+    public String address;
+    public String phone;
 
     public Person(String name, int age, String gender, String address, String phone){
         this.name = name;
